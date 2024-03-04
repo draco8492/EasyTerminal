@@ -1,5 +1,5 @@
 #!/bin/bash
 
 echo "Soy el padre :$$"
-bash terminallinux.sh "$$"
+bash terminallinux.sh
 wait
