@@ -22,7 +22,7 @@ EasyTerminal is a Bash script that offers an engaging interface to personalize y
     ```
 - **lolcat**: For the "Creative Cat" option, the script uses the lolcat command. Install it with:
     ```bash
-    sudo gem install lolcat
+    sudo apt-get install lolcat
     ```
 
 ## Required files
